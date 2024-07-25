@@ -3,7 +3,7 @@
 ## Inicialización del Proyecto
 1. Clonar el repositorio
 2. Instalar las dependencias ('npm i/npm install')
-3. Iniciar la aplicación
+3. Iniciar la aplicación (npm run dev)
 
 ## Dependencias
 - React
